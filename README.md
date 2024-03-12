@@ -1,16 +1,49 @@
-### Hi there 👋
+# Hi, I'm Santiago Villamil
 
-<!--
-**savch1102/savch1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- A short sentence that can  describe who you are -->
 
-Here are some ideas to get you started:
+<!-- All of your education background -->
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bachelor: Student in Biomedical Engineering at [Universidad de los Andes](uniandes.edu.co)
+- Bachelor: Student in Biology at [Universidad de los Andes](uniandes.edu.co)
+
+<!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
+## Affiliations
+
+- Member of [BIOMAC](https://github.com/biomac-lab)
+
+
+<img width="180" alt="Logo_Short" src="https://user-images.githubusercontent.com/73041689/218108873-dd5daaaa-2874-43d3-a089-8403dda3e18f.png">
+
+- Member of [Laboratoty of Tropical Forest Ecology and Primatology (LEBTYP)](https://cienciasbiologicas.uniandes.edu.co/es/investigacion/laboratorio-de-ecologia-de-bosques-tropicales-y-primatologia) 
+
+- Member of [American Society of Primatology (ASP)](https://www.asp.org)
+
+
+<!-- Showing what you work on, lets other collaborate with you -->
+## Research
+
+### Current:
+
+- Dilution effect on snake bite.
+- Competition in Aedes vectors.
+
+<!-- Topics that you haven't research yet but are intriguing to you -->
+### Interests:
+
+- Epidemiology.
+- Public health.
+
+
+<!-- Because we are humans before researchers -->
+## Hobbies
+
+- Running.
+- Music.
+- Videogames.
+
+## Contact
+
+You can reach me at <sa.villamil@uniandes.edu.co>
+
