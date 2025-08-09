@@ -5,8 +5,9 @@
 <!-- All of your education background -->
 ## Education
 
-- Bachelor: Student in Biomedical Engineering at [Universidad de los Andes](uniandes.edu.co)
-- Bachelor: Student in Biology at [Universidad de los Andes](uniandes.edu.co)
+- Biomedical Engineer at [Universidad de los Andes](uniandes.edu.co)
+- Biologist at [Universidad de los Andes](uniandes.edu.co)
+- MSc student of Biological Sciences at [Universidad de los Andes](uniandes.edu.co)
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
 ## Affiliations
@@ -27,21 +28,13 @@
 ### Current:
 
 - Dilution effect on snake bite.
-- Competition in Aedes vectors.
+- Competition in *Aedes* vectors.
 
 <!-- Topics that you haven't research yet but are intriguing to you -->
 ### Interests:
 
 - Epidemiology.
 - Public health.
-
-
-<!-- Because we are humans before researchers -->
-## Hobbies
-
-- Running.
-- Music.
-- Videogames.
 
 ## Contact
 
